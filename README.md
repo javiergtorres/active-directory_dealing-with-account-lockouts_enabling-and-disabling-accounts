@@ -110,6 +110,6 @@ First, I want to configure Account Lockout settings. So I want to head to the Gr
 </p>
 
 <p>
-  After that, I'll log in to another virtual machine as an admin. From there I'll open the command line. I'll type "
+  After that, I'll log in to another virtual machine as an admin. From there I'll open the command line. I'll type "gpupdate /force" then hit enter. This will cause the changes I've made to be updated to the system.
 </p>
 
