@@ -185,3 +185,16 @@ First, I want to configure Account Lockout settings. So I want to head to the Gr
   For this, I'm logged in as an admin account. In the Windows 11 search bar, I go to "Active Directory: Users and Computers". Then I right click "mydomain.com", then click "Find". From there I type in the user account name and click "Find Now". Then the name appears down below, and I right click on the account "wuta.neg". From there I click "disable account".
 </p>
 
+<p>
+  <img width="632" height="552" alt="account-disabled" src="https://github.com/user-attachments/assets/e6f9f863-ffd1-4af0-ad37-e29d2e8fb949" />
+
+</p>
+
+<p>
+  "wuta.neg" has been disabled. I will attempt to log in to this account now.
+</p>
+
+<p>
+  
+</p>
+
