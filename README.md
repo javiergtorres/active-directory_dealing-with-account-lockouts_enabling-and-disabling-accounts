@@ -195,6 +195,11 @@ First, I want to configure Account Lockout settings. So I want to head to the Gr
 </p>
 
 <p>
-  
+  <img width="1537" height="148" alt="wuta neg-has-been-disabled" src="https://github.com/user-attachments/assets/00d149d2-7357-4d5a-96fb-22539d2a1c20" />
+
+</p>
+
+<p>
+  I'm not able to log in since the account has been disabled. I will now re-enable the account and attempt to log in afterwords.
 </p>
 
