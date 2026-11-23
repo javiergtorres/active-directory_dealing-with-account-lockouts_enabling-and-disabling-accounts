@@ -221,5 +221,23 @@ First, I want to configure Account Lockout settings. So I want to head to the Gr
   Now I will attempt to log in as the account "wuta.neg"
 </p>
 
+<p>
+  <img width="867" height="638" alt="Screenshot_20261122_220505" src="https://github.com/user-attachments/assets/2e30eb8a-3583-463a-b7fb-31c6d8d9f4de" />
+
+</p>
+
+<p>
+  Here, I'm back at the login screen and will attempt to login.
+</p>
+
+<p>
+  <img width="881" height="285" alt="account-unlocked-successful" src="https://github.com/user-attachments/assets/83753034-1712-4068-a087-ec3989fee400" />
+
+</p>
+
+<p>
+  Mission success! The account has been re-enabled and I was able to log back in!
+</p>
+
 
 
