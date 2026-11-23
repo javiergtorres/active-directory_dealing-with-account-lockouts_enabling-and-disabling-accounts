@@ -132,7 +132,7 @@ First, I want to configure Account Lockout settings. So I want to head to the Gr
 </p>
 
 <p>
-  <img width="1511" height="842" alt="right-click-default-domain-policy" src="https://github.com/user-attachments/assets/52d165e5-e49c-4ea3-95f0-7c8e0186f5aa" />
+ 
 
 </p>
 
