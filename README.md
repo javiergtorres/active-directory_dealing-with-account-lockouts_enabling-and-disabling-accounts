@@ -19,7 +19,8 @@ This tutorial outlines how to deal with account lockouts, enabling and disabling
 <h2>Operating Systems Used </h2>
 
 - Windows Server 2025
-- Windows 11 
+- Windows 11
+- Garuda Linux
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
