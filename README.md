@@ -24,10 +24,10 @@ This tutorial outlines how to deal with account lockouts, enabling and disabling
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Dealing with Account Lockouts
+- Enabling and Disabling Accounts
+- Observing Logs
+
 
 <h2>Deployment and Configuration Steps</h2>
 
