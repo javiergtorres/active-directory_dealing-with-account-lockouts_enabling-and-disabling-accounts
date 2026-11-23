@@ -104,4 +104,12 @@ First, I want to configure Account Lockout settings. So I want to head to the Gr
   Here I'm making sure that an admin account will be able to unlock accounts that have been locked. I click "Allow Administrator account lockout", then in the pop-up I click "Define this policy setting" and check "Enabled". After that click "Apply" then "OK".
 </p>
 
+<p>
+  <img width="1525" height="848" alt="force-computers-to-accept-policy" src="https://github.com/user-attachments/assets/bcd6529b-8840-4622-b92c-6052ebd4ac38" />
+
+</p>
+
+<p>
+  After that, I'll log in to another virtual machine as an admin. From there I'll open the command line. I'll type "
+</p>
 
