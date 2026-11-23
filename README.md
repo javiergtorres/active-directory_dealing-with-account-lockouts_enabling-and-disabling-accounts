@@ -148,6 +148,10 @@ First, I want to configure Account Lockout settings. So I want to head to the Gr
 </p>
 
 <p>
+  From there I check the box that says "Unlock Account" then click "Apply" then "OK". The account should be unlocked, I will try to log back in as the User that was locked out.
+</p>
+
+<p>
   
 </p>
 
