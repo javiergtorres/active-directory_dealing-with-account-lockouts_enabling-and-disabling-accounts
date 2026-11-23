@@ -121,7 +121,7 @@ First, I want to configure Account Lockout settings. So I want to head to the Gr
 </p>
 
 <p>
-  Now I'll be trying to log in as a User with an incorrect password 5 times in a row. After the fifth incorrect attempt, the account should be locked out.
+  Now I'll be trying to log in as a User with an incorrect password 5 times in a row. The name of the user is "wuta.neg". After the fifth incorrect attempt, the account should be locked out.
 </p>
 
 <p>
@@ -139,6 +139,6 @@ First, I want to configure Account Lockout settings. So I want to head to the Gr
 </p>
 
 <p>
-  
+  Now I've logged in as "jane_admin". I've opened up "Acitive Directory: Users and Computers". I've right clicked "mydomain.com" in the menu and clicked "Find". In the pop up window, next to "name" I'ved typed in the account name that has been locked out. From there there, towards the bottom, the name of the account is listed. I right click the account name, then click "Properties".
 </p>
 
