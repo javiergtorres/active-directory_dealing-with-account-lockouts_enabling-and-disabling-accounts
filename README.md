@@ -74,7 +74,7 @@ First, I want to configure Account Lockout settings. So I want to head to the Gr
 <p>
   From there I'll click the drop down menu of the following: Policies-> Windows Settings-> Security Settings-> Account Policies-> Account Lockout Policy. I'll click "Account Policy". 
 
-  After that, I'll click "Account Lockout Duration" and set it to 10 minutes.
+  After that, I'll click "Account Lockout Duration" and set it to 10 minutes. This is basically once password attempts have failed the person won't be able to retry entering a password for 10 minutes.
 </p>
 
 <p>
@@ -92,7 +92,7 @@ First, I want to configure Account Lockout settings. So I want to head to the Gr
 </p>
 
 <p>
-  
+  Under "Account Lockout Duration" there's "Account Lockout Threshold". The account lockout threshold automatically got set to 5 password attempts once I set the account lockout duration. I'll leave as is. This is basically saying a person has 5 attempts to type in the password correctly before being locked out.
 </p>
 
 
