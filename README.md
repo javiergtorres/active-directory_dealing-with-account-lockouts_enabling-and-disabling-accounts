@@ -36,7 +36,7 @@ This tutorial outlines how to deal with account lockouts, enabling and disabling
 
 </p>
 <p>
-First, I want to configure Account Lockout settings. So I want to head to the Group Policy Management Console (GPMC). I will right click start on the home button. 
+First, I want to configure Account Lockout settings. So I want to head to the Group Policy Management Console (GPMC). I will right click start on the home button. Then I will click run.
 </p>
 <br />
 
