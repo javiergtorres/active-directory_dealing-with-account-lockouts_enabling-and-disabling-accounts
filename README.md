@@ -1,6 +1,4 @@
-<img width="1001" height="661" alt="retry-to-login-after-account-unlocked" src="https://github.com/user-attachments/assets/02470eb7-e940-4735-a436-49232b95fda4" />
-<img width="1216" height="610" alt="right-click-on-account-then-click-properties" src="https://github.com/user-attachments/assets/61b90fd6-7408-40ea-8ad8-29d66ff855da" />
-<img width="1216" height="610" alt="right-click-on-account-then-click-properties" src="https://github.com/user-attachments/assets/33842f0c-b795-431f-a0d0-1e55925e2287" />
+
 # active-directory_dealing-with-account-lockouts_enabling-and-disabling-accounts_and-observing-logs
 <p align="center">
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
