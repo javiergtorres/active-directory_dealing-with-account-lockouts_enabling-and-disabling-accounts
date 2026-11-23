@@ -56,3 +56,14 @@ First, I want to configure Account Lockout settings. So I want to head to the Gr
 
 </p>
 <br />
+
+<p>
+  <img width="1511" height="842" alt="right-click-default-domain-policy" src="https://github.com/user-attachments/assets/6c146abe-dd20-48ce-908d-aaa60ccfd54f" />
+
+</p>
+
+<p>
+  After that, I will right click on "Default Domain Policy" and then I will click "Edit".
+</p>
+
+
