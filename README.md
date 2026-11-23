@@ -203,3 +203,12 @@ First, I want to configure Account Lockout settings. So I want to head to the Gr
   I'm not able to log in since the account has been disabled. I will now re-enable the account and attempt to log in afterwords.
 </p>
 
+<p>
+  <img width="1059" height="648" alt="enable-account-again" src="https://github.com/user-attachments/assets/0811797c-9064-4509-986b-ee9717a1ae0e" />
+
+</p>
+
+<p>
+  From here I'm logged back in as an admin account. I will open up "Active Directory: Users and Computers" and right click "mydomain.com" and find the account "wuta.neg". Then I will right click the account
+</p>
+
