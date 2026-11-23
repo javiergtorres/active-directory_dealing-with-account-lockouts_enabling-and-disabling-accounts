@@ -86,4 +86,13 @@ First, I want to configure Account Lockout settings. So I want to head to the Gr
   Here, I'm setting the account lockout duration for 10 minutes. I'll click "Apply" then "OK".
 </p>
 
+<p>
+  <img width="1513" height="856" alt="account-lockout-duration-set-to-10-minutes" src="https://github.com/user-attachments/assets/b51412dd-3ff1-448a-9436-67ab40437dcb" />
+
+</p>
+
+<p>
+  
+</p>
+
 
