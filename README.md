@@ -1,5 +1,5 @@
 
-# active-directory_dealing-with-account-lockouts_enabling-and-disabling-accounts_and-observing-logs
+# active-directory_dealing-with-account-lockouts_enabling-and-disabling-accounts
 <p align="center">
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
