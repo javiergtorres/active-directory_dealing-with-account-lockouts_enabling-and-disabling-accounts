@@ -22,14 +22,14 @@ This tutorial outlines how to deal with account lockouts, enabling and disabling
 - Windows 11
 - Garuda Linux
 
-<h2>High-Level Deployment and Configuration Steps</h2>
+<h2>Objectives</h2>
 
 - Dealing with Account Lockouts
 - Enabling and Disabling Accounts
 - Observing Logs
 
 
-<h2>Deployment and Configuration Steps</h2>
+<h2>Dealing with Account Lockouts</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
