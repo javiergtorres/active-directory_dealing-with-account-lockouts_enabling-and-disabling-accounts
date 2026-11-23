@@ -1,3 +1,4 @@
+<img width="1001" height="661" alt="retry-to-login-after-account-unlocked" src="https://github.com/user-attachments/assets/02470eb7-e940-4735-a436-49232b95fda4" />
 <img width="1216" height="610" alt="right-click-on-account-then-click-properties" src="https://github.com/user-attachments/assets/61b90fd6-7408-40ea-8ad8-29d66ff855da" />
 <img width="1216" height="610" alt="right-click-on-account-then-click-properties" src="https://github.com/user-attachments/assets/33842f0c-b795-431f-a0d0-1e55925e2287" />
 # active-directory_dealing-with-account-lockouts_enabling-and-disabling-accounts_and-observing-logs
@@ -152,6 +153,20 @@ First, I want to configure Account Lockout settings. So I want to head to the Gr
 </p>
 
 <p>
-  
+  <img width="1001" height="661" alt="retry-to-login-after-account-unlocked" src="https://github.com/user-attachments/assets/0a9907ef-65b7-40ea-9e9c-12475516e768" />
+
+</p>
+
+<p>
+  Here I'm back at the login screen and will attempt to login with the correct password.
+</p>
+
+<p>
+  <img width="881" height="285" alt="account-unlocked-successful" src="https://github.com/user-attachments/assets/6b41a9ed-5348-4ea9-a017-b66b69194a49" />
+
+</p>
+
+<p>
+  The account has been successfully unlocked!
 </p>
 
