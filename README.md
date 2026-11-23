@@ -142,3 +142,12 @@ First, I want to configure Account Lockout settings. So I want to head to the Gr
   Now I've logged in as "jane_admin". I've opened up "Acitive Directory: Users and Computers". I've right clicked "mydomain.com" in the menu and clicked "Find". In the pop up window, next to "name" I'ved typed in the account name that has been locked out. From there there, towards the bottom, the name of the account is listed. I right click the account name, then click "Properties".
 </p>
 
+<p>
+  <img width="1236" height="700" alt="check-unlock-account-then-click-apply" src="https://github.com/user-attachments/assets/21d5bffe-db9a-48bc-8f80-22a8e879110d" />
+
+</p>
+
+<p>
+  
+</p>
+
