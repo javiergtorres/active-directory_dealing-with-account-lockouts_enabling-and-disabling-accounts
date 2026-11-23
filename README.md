@@ -72,7 +72,7 @@ First, I want to configure Account Lockout settings. So I want to head to the Gr
 </p>
 
 <p>
-  From there I'll click the drop down menu of the following: 
+  From there I'll click the drop down menu of the following: Policies-> Windows Settings-> Security Settings-> Account Policies-> Account Lockout Policy. I'll click "Account Policy". 
 </p>
 
 
