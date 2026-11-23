@@ -73,6 +73,13 @@ First, I want to configure Account Lockout settings. So I want to head to the Gr
 
 <p>
   From there I'll click the drop down menu of the following: Policies-> Windows Settings-> Security Settings-> Account Policies-> Account Lockout Policy. I'll click "Account Policy". 
+
+  After that, I'll click "Account Lockout Duration" and set it to 10 minutes.
+</p>
+
+<p>
+  <img width="1512" height="855" alt="setting-account-lockout-duration" src="https://github.com/user-attachments/assets/08209985-462d-410f-98c7-f36ae660437b" />
+
 </p>
 
 
