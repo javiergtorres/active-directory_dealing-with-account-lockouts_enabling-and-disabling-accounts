@@ -5,7 +5,7 @@
 </p>
 
 <h1>On-premises Active Directory dealing with accounts in the Cloud (Azure)</h1>
-This tutorial outlines how to deal with account lockouts, enabling and disabling accounts, and observing logs within Active Directory using virtual machines.<br />
+This tutorial outlines how to deal with account lockouts and enabling and disabling accounts within Active Directory using virtual machines.<br />
 
 
 
@@ -27,7 +27,7 @@ This tutorial outlines how to deal with account lockouts, enabling and disabling
 
 - Dealing with Account Lockouts
 - Enabling and Disabling Accounts
-- Observing Logs
+
 
 
 <h2>Dealing with Account Lockouts</h2>
