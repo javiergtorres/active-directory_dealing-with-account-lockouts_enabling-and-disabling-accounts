@@ -113,3 +113,21 @@ First, I want to configure Account Lockout settings. So I want to head to the Gr
   After that, I'll log in to another virtual machine as an admin. From there I'll open the command line. I'll type "gpupdate /force" then hit enter. This will cause the changes I've made to be updated to the system.
 </p>
 
+<p>
+  <img width="1528" height="484" alt="pt2-failing-to-login-5-times" src="https://github.com/user-attachments/assets/e40dc58c-be84-4c79-bfa0-9453127f6ea2" />
+
+</p>
+
+<p>
+  Now I'll be trying to log in as a User with an incorrect password 5 times in a row. After the fifth incorrect attempt, the account should be locked out.
+</p>
+
+<p>
+  <img width="1527" height="191" alt="account-has-been-locked-out" src="https://github.com/user-attachments/assets/e7a8e0cf-c05a-4910-8025-0af3138a632e" />
+
+</p>
+
+<p>
+  The account has been locked out. Now as an admin user I'll unlock the account.
+</p>
+
