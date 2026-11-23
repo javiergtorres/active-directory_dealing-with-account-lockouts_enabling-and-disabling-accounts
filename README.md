@@ -66,4 +66,13 @@ First, I want to configure Account Lockout settings. So I want to head to the Gr
   After that, I will right click on "Default Domain Policy" and then I will click "Edit".
 </p>
 
+<p>
+  <img width="1516" height="855" alt="heading-to-account-lockout-policy" src="https://github.com/user-attachments/assets/84ead0df-9721-4d23-be16-bf5ad3e73a6f" />
+
+</p>
+
+<p>
+  From there I'll click the drop down menu of the following: 
+</p>
+
 
