@@ -101,7 +101,7 @@ First, I want to configure Account Lockout settings. So I want to head to the Gr
 </p>
 
 <p>
-  Here I'm making sure that an admin account will be able to unlock accounts that have been locked.
+  Here I'm making sure that an admin account will be able to unlock accounts that have been locked. I click "Allow Administrator account lockout", then in the pop-up I click "Define this policy setting" and check "Enabled". After that click "Apply" then "OK".
 </p>
 
 
