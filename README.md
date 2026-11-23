@@ -40,6 +40,19 @@ First, I want to configure Account Lockout settings. So I want to head to the Gr
 </p>
 <br />
 
+<p>
+  <img width="1516" height="823" alt="gpmc msc-in -the-run-option" src="https://github.com/user-attachments/assets/f49bc8b2-ba79-4b3f-b0aa-f15344582089" />
+
+</p>
+
+<p>
+  After that I will type "gpmc.msc" , then click "OK".
+
+  <p>
+    
+  </p>
+</p>
+
 
 </p>
 <br />
