@@ -172,3 +172,16 @@ First, I want to configure Account Lockout settings. So I want to head to the Gr
   Disabling and Enabling Accounts
 </h2>
 
+<p>
+  For this portion, I'll use the same user account "wuta.neg".
+</p>
+
+<p>
+  <img width="1216" height="610" alt="right-click-on-account-then-click-properties" src="https://github.com/user-attachments/assets/69e73309-02ca-4071-b064-bcfdb6007744" />
+
+</p>
+
+<p>
+  For this, I'm logged in as an admin account. In the Windows 11 search bar, I go to "Active Directory: Users and Computers". 
+</p>
+
