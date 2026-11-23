@@ -168,3 +168,7 @@ First, I want to configure Account Lockout settings. So I want to head to the Gr
   The account has been successfully unlocked!
 </p>
 
+<h2>
+  Disabling and Enabling Accounts
+</h2>
+
