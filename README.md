@@ -31,6 +31,7 @@ A domain controller is a server that manages and controls access to computers, u
 
 
 - Remote Desktop
+- 
   Remote Desktop is a technology that allows you to access and control another computer from a different location using the internet or a network.
 
 In simple terms, it's like sitting in front of another computer even though you're physically somewhere else.
