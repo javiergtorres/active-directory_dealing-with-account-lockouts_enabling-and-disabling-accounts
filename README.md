@@ -12,7 +12,10 @@ This tutorial outlines how to deal with account lockouts and enabling and disabl
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines)
+
+I'll be using two virtual machines running in Azure:
+  
 - Remote Desktop
 - Active Directory Domain Services
 - PowerShell
