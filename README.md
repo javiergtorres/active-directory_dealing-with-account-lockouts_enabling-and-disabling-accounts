@@ -12,7 +12,8 @@ This tutorial outlines how to deal with account lockouts and enabling and disabl
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines)
+- Microsoft Azure
+- Virtual Machines
   
   Microsoft Azure is Microsoft's cloud computing platform. It lets businesses, developers, and individuals use Microsoft's internet-based computing services instead of having to buy and maintain their own physical servers and IT infrastructure.
 
