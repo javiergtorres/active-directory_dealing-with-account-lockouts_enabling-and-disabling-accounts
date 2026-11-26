@@ -13,12 +13,29 @@ This tutorial outlines how to deal with account lockouts and enabling and disabl
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines)
+  Microsoft Azure is Microsoft's cloud computing platform. It lets businesses, developers, and individuals use Microsoft's internet-based computing services instead of having to buy and maintain their own physical servers and IT infrastructure.
 
-I'll be using two virtual machines running in Azure:
-  
+Think of Azure as renting computers, storage, databases, and software over the internet from Microsoft.
+
+  A virtual machine is basically a computer that is not physically there with you, but you're able to still access it remotely.
+
+I'll be using two virtual machines running in Microsoft Azure, worth noting that both virtual machines ARE ON THE SAME VIRTUAL NETWORK within Azure. I've done this to simulate a business environment where there could be hundreds or even thousands of computers on the same business network: One I have named (dc-1) and the other is (client-1). I'll access these virtual machines with remote desktop, which is basically a way to access computers even though you're not physically there with them.
+
+DC-1 is a server (a server is basically a computer that serves other computers) and is using the operating software "Windows Server", and Active Directory will be running on this server. DC-1 will be the domain controller in this example. 
+
+A domain controller is a server that manages and controls access to computers, users, and resources within a Windows network. It basically acts as the central authority for authentication, authorization, and security in an organization/business. I like to think of a domain controller as a security guard for a company's network: it checks who you are, verifies your credentials/login info, and decides what you're allowed access to. 
+
+
 - Remote Desktop
+  Remote Desktop is a technology that allows you to access and control another computer from a different location using the internet or a network.
+
+In simple terms, it's like sitting in front of another computer even though you're physically somewhere else.
+
 - Active Directory Domain Services
+  Active Directory is Microsoft's directory service that stores and organizes information about users, computers, groups, and network resources.
+  
 - PowerShell
+  Basically, PowerShell lets you tell a computer what to do by typing instructions in to a command line, instead of having to click through menus. 
 
 <h2>Operating Systems Used </h2>
 
