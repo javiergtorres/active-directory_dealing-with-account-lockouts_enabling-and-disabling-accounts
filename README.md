@@ -21,7 +21,7 @@ This tutorial outlines how to deal with account lockouts and enabling and disabl
   Microsoft Azure is Microsoft's cloud computing platform. It lets businesses, developers, and individuals use Microsoft's internet-based computing services instead of having to buy and maintain their own physical servers and IT infrastructure.
 
 Think of Azure as renting computers, storage, databases, and software over the internet from Microsoft.
-
+- Virtual Machines
   A virtual machine is basically a computer that is not physically there with you, but you're able to still access it remotely.
 
 I'll be using two virtual machines running in Microsoft Azure, worth noting that both virtual machines ARE ON THE SAME VIRTUAL NETWORK within Azure. I've done this to simulate a business environment where there could be hundreds or even thousands of computers on the same business network: One I have named (dc-1) and the other is (client-1). I'll access these virtual machines with remote desktop, which is basically a way to access computers even though you're not physically there with them.
