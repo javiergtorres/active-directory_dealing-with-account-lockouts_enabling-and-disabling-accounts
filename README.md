@@ -26,6 +26,8 @@ DC-1 is a server (a server is basically a computer that serves other computers) 
 
 A domain controller is a server that manages and controls access to computers, users, and resources within a Windows network. It basically acts as the central authority for authentication, authorization, and security in an organization/business. I like to think of a domain controller as a security guard for a company's network: it checks who you are, verifies your credentials/login info, and decides what you're allowed access to. 
 
+Client-1 is a virtual machine that is running on the operating software Windows 11. You can think of this virtual machine as just a regular old computer. 
+
 
 - Remote Desktop
   Remote Desktop is a technology that allows you to access and control another computer from a different location using the internet or a network.
@@ -33,7 +35,7 @@ A domain controller is a server that manages and controls access to computers, u
 In simple terms, it's like sitting in front of another computer even though you're physically somewhere else.
 
 - Active Directory Domain Services
-  Active Directory is Microsoft's directory service that stores and organizes information about users, computers, groups, and network resources.
+  Active Directory is Microsoft's directory service that stores and organizes information about users, computers, groups, and network resources. In this example, there are over 1,000 user accounts that Active Directory has in the domain. The virtual machine, Client-1, is part of that domain. 
   
 - PowerShell
   Basically, PowerShell lets you tell a computer what to do by typing instructions in to a command line, instead of having to click through menus. 
