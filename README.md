@@ -104,7 +104,14 @@ This is the screen you'd usually see when entering info about a computer you wan
 
 </p>
 <p>
-First, I want to configure Account Lockout settings. So I want to head to the Group Policy Management Console (GPMC). I will right click start on the home button. Then I will click run.
+Here I am logged in to dc-1, the virtual machine that is a domain controller. First, I want to configure Account Lockout settings. So I want to head to the Group Policy Management Console (GPMC). 
+
+The Group Policy Management Console (GPMC) is a Microsoft Windows administrative tool used to create, manage, configure, and apply Group Policy Objects (GPOs) in an Active Directory environment.
+
+Basically, GPMC allows IT administrators to control how computers and users behave across an entire organization from one central location.
+  
+  
+  I will right click start on the home button. Then I will click run.
 </p>
 <br />
 
