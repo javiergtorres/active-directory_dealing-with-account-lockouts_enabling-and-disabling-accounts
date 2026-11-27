@@ -66,6 +66,15 @@ Basically, it's like sitting in front of another computer even though you're phy
 <h2>Dealing with Account Lockouts</h2>
 
 <p>
+  <img width="1580" height="822" alt="logging-in-to-microsoft-azure" src="https://github.com/user-attachments/assets/9abdecd4-a79e-4413-a540-d309c047d940" />
+
+</p>
+
+<p>
+  First, I'm going to login in to Microsoft Azure. This is the first screen I see after logging in. From here, near the top of the screen where it says "Azure Services" it says "Virtual Machines". I'll click that to go to the virtual machines that I have already created beforehand. 
+</p>
+
+<p>
 <img width="1504" height="856" alt="right-click-start-in-dc1-vm" src="https://github.com/user-attachments/assets/0984ded7-9c19-4dcc-a2d2-3216ebb23e36" />
 
 </p>
