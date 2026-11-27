@@ -84,6 +84,15 @@ Basically, it's like sitting in front of another computer even though you're phy
 </p>
 
 <p>
+  <img width="948" height="617" alt="remmina-first-screen" src="https://github.com/user-attachments/assets/ac786059-17e9-4ee4-9782-7049114de327" />
+
+</p>
+
+<p>
+  Here I already have the virtual machines and their login info in the Remmina app. I'll right click on dc-1, then click on "Edit" to open up the same screen you'd see when adding a computer connection profile.
+</p>
+
+<p>
 <img width="1504" height="856" alt="right-click-start-in-dc1-vm" src="https://github.com/user-attachments/assets/0984ded7-9c19-4dcc-a2d2-3216ebb23e36" />
 
 </p>
