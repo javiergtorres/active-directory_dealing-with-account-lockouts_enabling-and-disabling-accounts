@@ -93,6 +93,13 @@ Basically, it's like sitting in front of another computer even though you're phy
 </p>
 
 <p>
+  <img width="1028" height="725" alt="remmina-entering-dc-1-login-info" src="https://github.com/user-attachments/assets/75bbe2d6-0037-4901-b6f0-33b9cd6e8279" />
+
+</p>
+
+This is the screen you'd usually see when entering info about a computer you want to connect to for the first time. Next to "Name" you can enter whatever you'd like. For simplicity, I named it dc-1(vm). Next to "Protocol" there's a clickable drop down menu, you want to make sure that you choose "RDP: Remote Desktop Protocol". RDP is specifically for connecting to Windows computers. On the flip side, if you wanted to connect to a Macbook you'd choose "VNC". Next to "Server" you type in the public IP address of the computer you want to connect to. From there you type in the username and password of the computer in the corresponding fields. After that you can either click "Connect" or "Save and Connect" so that all the info you're entering will be saved. After this, another screen should pop-up displaying the screen of the virtual machine dc-1.
+
+<p>
 <img width="1504" height="856" alt="right-click-start-in-dc1-vm" src="https://github.com/user-attachments/assets/0984ded7-9c19-4dcc-a2d2-3216ebb23e36" />
 
 </p>
