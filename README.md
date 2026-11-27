@@ -75,6 +75,15 @@ Basically, it's like sitting in front of another computer even though you're phy
 </p>
 
 <p>
+  <img width="1596" height="754" alt="public-ip-address-of-dc-1-highlighted" src="https://github.com/user-attachments/assets/89f55992-5631-42e3-8c69-e6b1f29eaa5c" />
+
+</p>
+
+<p>
+  First, I want to use Remote Desktop to connect to the virtual machine (dc-1) which is the domain controller. This has been explained above in the "Environments and Technologies" section. For this I want to take note of the public IP address which has been highlighted in this screenshot. I'll also need the username and password of this virtual machine which I won't show for security purposes. Once I have those I'll open up "Remmina" the remote desktop application on Garuda Linux which allows you to connect to other computers remotely. 
+</p>
+
+<p>
 <img width="1504" height="856" alt="right-click-start-in-dc1-vm" src="https://github.com/user-attachments/assets/0984ded7-9c19-4dcc-a2d2-3216ebb23e36" />
 
 </p>
