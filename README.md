@@ -121,7 +121,7 @@ Basically, GPMC allows IT administrators to control how computers and users beha
 </p>
 
 <p>
-  After that I will type "gpmc.msc" , then click "OK".
+  There will be a pop-up that should appear with an area where you can type a command. In that area I will type "gpmc.msc" , then click "OK".
 
   <p>
     
