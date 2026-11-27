@@ -89,7 +89,7 @@ Basically, it's like sitting in front of another computer even though you're phy
 </p>
 
 <p>
-  Here I already have the virtual machines and their login info in the Remmina app. I'll right click on dc-1, then click on "Edit" to open up the same screen you'd see when adding a computer connection profile.
+  Here I already have the virtual machines and their login info in the Remmina app. I'll right click on dc-1, then click on "Edit" to open up the same screen you'd see when adding a computer connection profile for the first time.
 </p>
 
 <p>
