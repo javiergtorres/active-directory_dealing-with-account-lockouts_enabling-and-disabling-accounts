@@ -12,7 +12,7 @@ This tutorial outlines how to deal with account lockouts and enabling and disabl
 
 <h2>Environments and Technologies Used</h2>
 
-- Garuda Linux
+- Garuda Linux (Linux is a free and open source operating software and there are different distributions of Linux, aka versions. Garuda is a distribution of Linux that I prefer to use)
 
   On my personal laptop, I'm using the operating software Garuda Linux. It's another operating system option to use besides Windows or MacOs. On Linux, one of the main ways to use Remote Desktop is to use an application called Remmina. For example, if you're trying to connect to a Windows computer, once you open the app, there'll be a plus sign at the top of the app screen. You click that to add a new connection profile. From there, next to protocol, there'll be a drop down menu and you choose "RDP: Remote Desktop Protocol" which is specifically for connecting to Windows computers. From there, you just need the public IP address, username, and password of the computer you're trying to connect to and enter those in the corresponding fields on the Remmina screen. Once entered, you just click the Connect button and a screen should pop up displaying the screen of the computer you're connected to. 
 - Microsoft Azure
