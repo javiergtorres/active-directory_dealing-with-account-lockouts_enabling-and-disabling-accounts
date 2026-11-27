@@ -54,7 +54,7 @@ Basically, it's like sitting in front of another computer even though you're phy
 
 - Windows Server 2025
 - Windows 11
-- Garuda Linux
+- Garuda Linux (Linux is a free and open source operating software and there are different distributions of Linux, aka versions. Garuda is a distribution of Linux that I prefer to use)
 
 <h2>Objectives</h2>
 
