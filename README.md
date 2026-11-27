@@ -170,14 +170,7 @@ Basically, GPMC allows IT administrators to control how computers and users beha
   Under "Account Lockout Duration" there's "Account Lockout Threshold". The account lockout threshold automatically got set to 5 password attempts once I set the account lockout duration. I'll leave as is. This is basically saying a person has 5 attempts to type in the password correctly before being locked out.
 </p>
 
-<p>
-  <img width="1516" height="850" alt="allow-admin-account-to-unlock-account" src="https://github.com/user-attachments/assets/ed576d69-4a3c-4fe6-b35e-fcb133ac51c1" />
 
-</p>
-
-<p>
-  Here I'm making sure that an admin account will be able to unlock accounts that have been locked. I click "Allow Administrator account lockout", then in the pop-up I click "Define this policy setting" and check "Enabled". After that click "Apply" then "OK".
-</p>
 
 <p>
   <img width="1525" height="848" alt="force-computers-to-accept-policy" src="https://github.com/user-attachments/assets/bcd6529b-8840-4622-b92c-6052ebd4ac38" />
