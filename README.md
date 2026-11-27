@@ -178,7 +178,7 @@ Basically, GPMC allows IT administrators to control how computers and users beha
 </p>
 
 <p>
-  After that, I'll log in to another virtual machine as an admin. From there I'll open the command line. I'll type "gpupdate /force" then hit enter. This will cause the changes I've made to be updated to the system.
+  After that, I'll log in to the virtual machine (client-1) as "jane_admin". From there I'll open the command line. I'll type "gpupdate /force" then hit enter. This will cause the changes I've made to be updated to the system.
 </p>
 
 <p>
