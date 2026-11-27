@@ -80,7 +80,7 @@ Basically, it's like sitting in front of another computer even though you're phy
 </p>
 
 <p>
-  First, I want to use Remote Desktop to connect to the virtual machine (dc-1) which is the domain controller. This has been explained above in the "Environments and Technologies" section. For this I want to take note of the public IP address which has been highlighted in this screenshot. I'll also need the username and password of this virtual machine which I won't show for security purposes. Once I have those I'll open up "Remmina" the remote desktop application on Garuda Linux which allows you to connect to other computers remotely. 
+  First, I want to use Remote Desktop to connect to the virtual machine (dc-1) which is the domain controller in this example. This has been explained above in the "Environments and Technologies" section. For this I want to take note of the public IP address which has been highlighted in this screenshot. I'll also need the username and password of this virtual machine which I won't show for security purposes. Once I have those I'll open up "Remmina" the remote desktop application on Garuda Linux which allows you to connect to other computers remotely. 
 </p>
 
 <p>
