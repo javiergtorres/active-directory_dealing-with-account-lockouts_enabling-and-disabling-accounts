@@ -442,6 +442,8 @@ Basically, GPMC allows IT administrators to control how computers and users beha
 
 <p>
   Mission success! The account has been re-enabled and I was able to log back in to the virtual machine (client-1) as "wuta.neg"
+
+  That concludes this example!
 </p>
 
 
