@@ -93,7 +93,7 @@ Basically, it's like sitting in front of another computer even though you're phy
 </p>
 
 <p>
-  Here I already have the virtual machines and their login info in the Remmina app. I'll right click on dc-1, then click on "Edit" to open up the same screen you'd see when adding a computer connection profile for the first time.
+  Here I already have the virtual machines and their login info in the Remmina app. I'll right click on dc-1, then click on "Edit" to open up the same screen you'd see when adding a computer connection profile for the first time. However, if you're remotely connecting to another computer for the first time, you'd click the "+" symbol at the top of the Remmina screen and that would bring you to a screen where you'd enter info like the public IP address, username, and password of the computer that you want to connect to, you'll see that screen in the next photo. 
 </p>
 
 <p>
