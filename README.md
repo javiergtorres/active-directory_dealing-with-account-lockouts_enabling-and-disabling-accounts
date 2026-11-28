@@ -316,7 +316,7 @@ Basically, GPMC allows IT administrators to control how computers and users beha
 </p>
 
 <p>
-  The account has been locked out. Now as an admin user I'll unlock the account.
+  The account has been locked out. Now I'll head back to the virtual machine (dc-1)which is the domain controller and where Active Directory is running. I'll open up Active Directory: Users and Computers again and find the account "wuta.neg" and unlock the account.
 </p>
 
 <p>
