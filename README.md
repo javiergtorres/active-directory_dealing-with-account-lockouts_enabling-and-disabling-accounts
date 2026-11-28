@@ -325,7 +325,7 @@ Basically, GPMC allows IT administrators to control how computers and users beha
 </p>
 
 <p>
-  Now I've logged in as "jane_admin". I've opened up "Acitive Directory: Users and Computers". I've right clicked "mydomain.com" in the menu and clicked "Find". In the pop up window, next to "name" I'ved typed in the account name that has been locked out. From there there, towards the bottom, the name of the account is listed. I right click the account name, then click "Properties".
+  Again, worth noting, this whole time I'm still logged in to (dc-1) within Remmina. As of right now, I just have to click the tab at the top of the screen to open up the screen for (dc-1). I'm now back in (dc-1), I've typed "Active Directory: Users and Computers" in the search bar and clicked open. I've opened up "Active Directory: Users and Computers". I've right clicked "mydomain.com" in the menu and clicked "Find". In the pop up window, next to "name" I've typed in the account name that has been locked out. Obviously, that account is "wuta.neg" From there there, towards the bottom, the name of the account is listed. I right click "wuta.neg", then click "Properties".
 </p>
 
 <p>
@@ -334,7 +334,7 @@ Basically, GPMC allows IT administrators to control how computers and users beha
 </p>
 
 <p>
-  From there I check the box that says "Unlock Account" then click "Apply" then "OK". The account should be unlocked, I will try to log back in as the User that was locked out.
+  From there I check the box that says "Unlock Account" then click "Apply" then "OK". The account should be unlocked, I will try to log back in as "wuta.neg@mydomain.com" in the virtual machine (client-1). The account should be unlocked and I should be able to log in so long as I have the correct password.
 </p>
 
 <p>
