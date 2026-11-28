@@ -414,7 +414,7 @@ Basically, GPMC allows IT administrators to control how computers and users beha
 </p>
 
 <p>
-  From here I'm logged back in as an admin account. I will open up "Active Directory: Users and Computers" and right click "mydomain.com" and find the account "wuta.neg". Then I will right click the account and click "Enable Account". 
+  From here, I'm still logged in to (dc-1) within the application Remmina, so I clicked the tab at the top of the screen to switch to (dc-1). I will open up "Active Directory: Users and Computers" and right click "mydomain.com" and find the account "wuta.neg". Then I will right click the account and click "Enable Account". 
 </p>
 
 <p>
