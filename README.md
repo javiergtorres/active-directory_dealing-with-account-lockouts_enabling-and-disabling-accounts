@@ -285,7 +285,13 @@ Basically, GPMC allows IT administrators to control how computers and users beha
   </p>
 
   <p>
-    Now I've opened up Remmina again, the remote desktop application. This time I'll attempt to login to the virtual machine (client-1) as the user "wuta.neg" but I'll purposely enter an incorrect password five times in a row. This should lock me out of that account.
+     I've been logged out of the virtual machine (client-1). Now I've opened up Remmina again, the remote desktop application. This time I'll attempt to login to the virtual machine (client-1) as the user "wuta.neg" but I'll purposely enter an incorrect password five times in a row. This should lock me out of that account.
+
+  So, I'll right click on "client-1" again, then I'll click "edit". That will open up the connection profile again.
+  </p>
+
+  <p>
+    
   </p>
 
 <p>
