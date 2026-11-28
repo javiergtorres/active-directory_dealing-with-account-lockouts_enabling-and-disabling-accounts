@@ -177,12 +177,15 @@ Basically, GPMC allows IT administrators to control how computers and users beha
 </p>
 
 <p>
-  <img width="762" height="557" alt="will-log-in-to-client-1-as-jane-admin" src="https://github.com/user-attachments/assets/08feffa8-084b-4f94-9f00-b614753f2254" />
+  <img width="1600" height="770" alt="getting-client1-public-ip-address" src="https://github.com/user-attachments/assets/669e473d-161d-479e-b6b5-72a7529f87cf" />
+
 
 </p>
 
 <p>
-  Now as an example, I'll login to the other virtual machine (client-1), and I'll login as a user that is part of the domain "mydomain.com". So real quick, I'll head back to Microsoft Azure to get the public IP address of client-1 which I'll need to type in to Remmina to be able to connect remotely.
+  Now as an example, I'll login to the other virtual machine (client-1), and I'll login as a user that is part of the domain "mydomain.com".
+  
+  So real quick, I'll head back to Microsoft Azure to get the public IP address of client-1 which I'll need to type in to Remmina to be able to connect remotely.
   
   
   I'll login as "jane_admin" on (client-1), which is an admin account in the domain. I basically just want to force an update to the domain so the account lockout policy gets updated across the whole domain.  So for that, I'll go back to Remmina, the app that lets me remotely connect to other computers. Then I'll right click (client-1) and click edit. 
