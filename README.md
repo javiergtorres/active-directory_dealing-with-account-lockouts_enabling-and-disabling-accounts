@@ -194,7 +194,9 @@ Basically, GPMC allows IT administrators to control how computers and users beha
   </p>
   
   <p>
-  I'll login as "jane_admin" on (client-1), which is an admin account in the domain. I basically just want to force an update to the domain so the account lockout policy gets updated across the whole domain.  So for that, I'll go back to Remmina, the app that lets me remotely connect to other computers. Then I'll right click (client-1) and click edit. 
+  Here I've just opened up the application Remmina.
+  
+   I'll login as "jane_admin" on (client-1), which is an admin account in the domain. Again, I basically just want to force an update to the domain so the account lockout policy gets updated across the whole domain. Then I'll right click (client-1) and click edit. 
 </p>
 
 <p>
