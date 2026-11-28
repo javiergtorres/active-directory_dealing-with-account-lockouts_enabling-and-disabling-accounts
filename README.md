@@ -307,7 +307,7 @@ Basically, GPMC allows IT administrators to control how computers and users beha
 </p>
 
 <p>
-  Now I'll be trying to log in as a User with an incorrect password 5 times in a row. The name of the user is "wuta.neg". After the fifth incorrect attempt, the account should be locked out.
+  Here the mini login screen has appeared as mentioned. After the fifth incorrect attempt to login with an incorrect password, the account should be locked out.
 </p>
 
 <p>
