@@ -252,6 +252,15 @@ Basically, GPMC allows IT administrators to control how computers and users beha
 </p>
 
 <p>
+  <img width="1535" height="858" alt="ad-open-on-dc1" src="https://github.com/user-attachments/assets/135d344b-ed17-4dc4-8890-a05e5b5ca8a2" />
+
+</p>
+
+<p>
+  Here Active Directory has appeared on my screen. First I'll click the arrow next to "mydomain.com" to bring down the drop down menu. 
+</p>
+
+<p>
   <img width="1528" height="484" alt="pt2-failing-to-login-5-times" src="https://github.com/user-attachments/assets/e40dc58c-be84-4c79-bfa0-9453127f6ea2" />
 
 </p>
