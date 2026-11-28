@@ -279,6 +279,15 @@ Basically, GPMC allows IT administrators to control how computers and users beha
   To log out as "jane_admin" in the virtual machine (client-1) I first will click the tab at the top of the screen to switch back to (client-1). From there, at the bottom of the Windows screen I'll click the Windows button. That will bring up a little screen. On that screen it'll say "Jane Doe". I'll click "Jane Doe". That will bring up another smaller screen,on that screen it'll say "sign out". I'll click that button to log out of the virtual machine as "jane_admin".
 </p>
 
+ <p>
+    <img width="762" height="557" alt="will-log-in-to-client-1-as-jane-admin" src="https://github.com/user-attachments/assets/9bfa27aa-99cc-4e6b-b929-d577eaf9b997" />
+
+  </p>
+
+  <p>
+    Now I've opened up Remmina again, the remote desktop application. This time I'll attempt to login to the virtual machine (client-1) as the user "wuta.neg" but I'll purposely enter an incorrect password five times in a row. This should lock me out of that account.
+  </p>
+
 <p>
   <img width="1528" height="484" alt="pt2-failing-to-login-5-times" src="https://github.com/user-attachments/assets/e40dc58c-be84-4c79-bfa0-9453127f6ea2" />
 
