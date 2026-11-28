@@ -386,6 +386,10 @@ Basically, GPMC allows IT administrators to control how computers and users beha
 
   </p>
 
+  <p>
+    Once again, I've opened up Remmina and will right click on the virtual machine (client-1) and click edit. That will bring me to the connection profile setup screen.
+  </p>
+
 <p>
   <img width="1537" height="148" alt="wuta neg-has-been-disabled" src="https://github.com/user-attachments/assets/00d149d2-7357-4d5a-96fb-22539d2a1c20" />
 
