@@ -405,7 +405,7 @@ Basically, GPMC allows IT administrators to control how computers and users beha
 </p>
 
 <p>
-  I'm not able to log in since the account has been disabled. I will now re-enable the account and attempt to log in afterwords.
+  I'm not able to log in since the account has been disabled in Active Directory on the domain controller, (dc-1). I will now re-enable the account in Active Directory on (dc-1) and attempt to log in again on (client-1) as "wuta.neg@mydomain.com"
 </p>
 
 <p>
