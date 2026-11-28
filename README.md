@@ -261,6 +261,19 @@ Basically, GPMC allows IT administrators to control how computers and users beha
 </p>
 
 <p>
+  <img width="1499" height="856" alt="choosing-wuta neg-as-the-user-to-test-on" src="https://github.com/user-attachments/assets/dff97766-2209-4df6-8f26-95697e1cefb3" />
+
+</p>
+
+<p>
+  Here the list of employees has popped up. I'll choose a random user account to test the account lockout policy on. I chose "wuta.neg" to be my guinea pig. Next I'll head back to the virtual machine (client-1) and log out as "jane_admin".
+</p>
+
+<p>
+  
+</p>
+
+<p>
   <img width="1528" height="484" alt="pt2-failing-to-login-5-times" src="https://github.com/user-attachments/assets/e40dc58c-be84-4c79-bfa0-9453127f6ea2" />
 
 </p>
