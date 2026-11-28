@@ -423,7 +423,7 @@ Basically, GPMC allows IT administrators to control how computers and users beha
 </p>
 
 <p>
-  Now I will attempt to log in as the account "wuta.neg"
+ The account should be enabled again. Now I will re-attempt to log in as the account "wuta.neg@mydomain.com" on the virtual machine (client-1).
 </p>
 
 <p>
