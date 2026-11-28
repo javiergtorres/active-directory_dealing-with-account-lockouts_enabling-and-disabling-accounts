@@ -205,6 +205,12 @@ Basically, GPMC allows IT administrators to control how computers and users beha
 </p>
 
 <p>
+  So this is pretty much the same as when I was logging in to the first virtual machine, (dc-1).
+
+  You can name the connection anything, I've named it client-1 (vm). For protocol, make sure to choose "RDP: Remote Desktop Protocol" since I'm connecting to a Windows virtual machine. Then you type in the public IP address of client-1 in the server section.
+
+  Now remember for the username, I'll be typing "jane_admin@mydomain.com" as opposed to just "jane_admin". The reason is because "jane_admin" doesn't exist locally on (client-1). The thing is, client-1 is actually part of the domain. So, when I type "jane_admin@mydomain.com" in the username section, I'm stating "Hey look through the domain, find jane_admin, and if I have the password for that account, log me in." FYI I do indeed have the password for jane_admin.
+
   
 </p>
 
