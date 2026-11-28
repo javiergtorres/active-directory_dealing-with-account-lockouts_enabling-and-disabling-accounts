@@ -276,7 +276,7 @@ Basically, GPMC allows IT administrators to control how computers and users beha
 </p>
 
 <p>
-  To log out as "jane_admin" in the virtual machine (client-1) I first will click the tab at the top of the screen to switch back to (client-1). From there, at the bottom of the Windows screen I'll click the Windows button. That will bring up a little screen, on that screen it'll say "log out". I'll click that button to log out of the virtual machine as "jane_admin".
+  To log out as "jane_admin" in the virtual machine (client-1) I first will click the tab at the top of the screen to switch back to (client-1). From there, at the bottom of the Windows screen I'll click the Windows button. That will bring up a little screen, on that screen it'll say "sign out". I'll click that button to log out of the virtual machine as "jane_admin".
 </p>
 
 <p>
