@@ -48,7 +48,7 @@ Basically, it's like sitting in front of another computer even though you're phy
 
    In this example, there are over 1,000 user accounts that are in the domain in Active Directory, for this example the domain name is "mydomain.com". By the way, a domain is basically just a company's centralized network environment where user accounts, computers, and security policies are managed together, in a nutshell it's just a group.
 
-   The virtual machine, Client-1, is part of that domain. Worth noting, in this example the local user account name for the virtual machine Client-1 is "labuser". However, let's say I wanted to login to a user account on Client-1 but as a user account that was a part of the domain, "mydomain.com". Let's say "jane_admin" for example. When logging in, I would type "jane_admin@mydomain.com" as the username and whatever the password is for "jane_admin".
+   The virtual machine, Client-1, is part of that domain. Worth noting, in this example the local user account name for the virtual machine Client-1 is "labuser". However, let's say I wanted to login to a user account on Client-1 but as another user account that was a part of the domain, "mydomain.com". Let's say "jane_admin" for example. When logging in, I would type "jane_admin@mydomain.com" as the username and whatever the password is for "jane_admin".
   
 - PowerShell
   
