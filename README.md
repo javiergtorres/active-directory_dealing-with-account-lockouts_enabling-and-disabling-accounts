@@ -224,11 +224,16 @@ Basically, GPMC allows IT administrators to control how computers and users beha
 </p>
 
 <p>
-  As you can see, I'm now logged in to the virtual machine (client-1) as "jane_admin". From there I'll open the command line. To do so,
+  As you can see, I'm now logged in to the virtual machine (client-1) as "jane_admin". From there I'll open the command line. To do so, in the Windows search bar at the bottom of the screen, I'll type in "command prompt". Then I'll click "open".
 </p>
 
+<p>
+  <img width="1519" height="854" alt="gpforceupdate-successful-on-client1" src="https://github.com/user-attachments/assets/3f2aa35f-21a6-440b-8c93-1d28139daf1f" />
+
+</p>
+  
   <p>
-  I'll type "gpupdate /force" then hit enter.
+  Here the command line has appeared. I'll type "gpupdate /force" in the command line then hit enter. Now remember, by me typing this in the command line then hitting enter, what I'm doing is forcing an update to the domain so the changes I've made to the account lockout policy will be applied to the whole domain.
 </p>
 
 <p>
