@@ -244,7 +244,9 @@ Basically, GPMC allows IT administrators to control how computers and users beha
 </p>
 
 <p>
-  It's worth noting, that at this point, I'm simultaneously logged in to both virtual machines (dc-1) and (client-1) within the application Remmina. I want to head back to (dc-1) the domain controller and open up Active Directory: Users and Computers that way I can pick a user within the domain to test the account lockout policy on. Within Remmina, there's tabs at the top of the screen that I can click to switch back and forth between the two virtual machines that I'm logged in to. I'll click on (dc-1) to switch to that virtual machine.
+  It's worth noting, that at this point, I'm simultaneously logged in to both virtual machines (dc-1) and (client-1) within the application Remmina. I want to head back to (dc-1) the domain controller and open up Active Directory: Users and Computers that way I can pick a user within the domain to test the account lockout policy on.
+  
+  Within Remmina, there's tabs at the top of the screen that I can click to switch back and forth between the two virtual machines that I'm logged in to. I'll click on (dc-1) to switch to that virtual machine.
 </p>
 
 <p>
