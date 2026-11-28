@@ -298,7 +298,7 @@ Basically, GPMC allows IT administrators to control how computers and users beha
   <p>
     Here, the login process is the same as the previous time when I logged in to the virtual machine (client-1) as "jane_admin". 
 
-  You can name the connection anything you'd like, I'm keeping it as (client-1). The IP address is still the same public IP address that was given to us in Microsoft Azure. The username will be "wuta.neg@mydomain.com" because as stated before it's part of the "mydomain.com" domain, so that has to be specified. Then for the password I'll type in an incorrect password. From there, I'll click "Connect" and another mini login screen will appear prompting you to type in the username and password again since the password is incorrect.
+  You can name the connection anything you'd like, I'm keeping it as (client-1). Since I'm connecting to a Windows virtual machine, make sure to click "RDP" as the protocol.  The IP address is still the same public IP address that was given to us in Microsoft Azure. The username will be "wuta.neg@mydomain.com" because as stated before it's part of the "mydomain.com" domain, so that has to be specified. Then for the password I'll type in an incorrect password. From there, I'll click "Connect" and another mini login screen will appear prompting you to type in the username and password again since the password is incorrect.
   </p>
 
 <p>
