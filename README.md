@@ -369,7 +369,7 @@ Basically, GPMC allows IT administrators to control how computers and users beha
 </p>
 
 <p>
-  For this, I'm logged in as an admin account. In the Windows 11 search bar, I go to "Active Directory: Users and Computers". Then I right click "mydomain.com", then click "Find". From there I type in the user account name and click "Find Now". Then the name appears down below, and I right click on the account "wuta.neg". From there I click "disable account".
+  For this example, I'm back in the virtual machine (dc-1) which is the domain controller. In the Windows 11 search bar, I go to "Active Directory: Users and Computers". Then I right click "mydomain.com", then click "Find". From there I type in the user account name "wuta.neg" and click "Find Now". Then the name appears down below, and I right click on the account "wuta.neg". From there I click "disable account".
 </p>
 
 <p>
@@ -378,7 +378,7 @@ Basically, GPMC allows IT administrators to control how computers and users beha
 </p>
 
 <p>
-  "wuta.neg" has been disabled. I will attempt to log in to this account now.
+  "wuta.neg" has been disabled. I will attempt to log in to the virtual machine (client-1) as the user "wuta.neg" 
 </p>
 
 <p>
