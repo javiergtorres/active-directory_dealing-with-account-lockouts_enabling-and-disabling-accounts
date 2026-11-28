@@ -382,6 +382,11 @@ Basically, GPMC allows IT administrators to control how computers and users beha
 </p>
 
 <p>
+    <img width="762" height="557" alt="will-log-in-to-client-1-as-jane-admin" src="https://github.com/user-attachments/assets/9bfa27aa-99cc-4e6b-b929-d577eaf9b997" />
+
+  </p>
+
+<p>
   <img width="1537" height="148" alt="wuta neg-has-been-disabled" src="https://github.com/user-attachments/assets/00d149d2-7357-4d5a-96fb-22539d2a1c20" />
 
 </p>
