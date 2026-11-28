@@ -142,7 +142,7 @@ Basically, GPMC allows IT administrators to control how computers and users beha
 </p>
 
 <p>
-  After that, I will right click on "Default Domain Policy" and then I will click "Edit".
+  After that, I will right click on "Default Domain Policy" and then I will click "Edit". A quick heads up, you can see right above "Default Domain Policy" it says "mydomain.com". If you remember, "mydomain.com" is the domain that we're working with for this example. Also, a domain is basically a group of users and computers.
 </p>
 
 <p>
