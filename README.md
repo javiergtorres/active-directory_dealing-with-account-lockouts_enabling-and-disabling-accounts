@@ -5,7 +5,7 @@
 </p>
 
 
-This tutorial outlines how to deal with account lockouts and enabling and disabling accounts within Active Directory using virtual machines.<br />
+This tutorial outlines how to deal with account lockouts and enabling and disabling accounts within an existing Active Directory environment using virtual machines.<br />
 
 
 
@@ -31,7 +31,7 @@ I'll be using two virtual machines running in Microsoft Azure, worth noting that
 
 A domain controller is a server that manages and controls access to computers, users, and resources within a Windows network. It basically acts as the central authority for authentication, authorization, and security in an organization/business. I like to think of a domain controller as a security guard for a company's network: it checks who you are, verifies your credentials/login info, and decides what you're allowed access to. 
 
--Client-1 is a virtual machine that is running on the operating software Windows 11. You can think of this virtual machine as just a regular old computer. 
+-Client-1 is a virtual machine that is running on the operating software Windows 11. You can think of this virtual machine as just a regular old computer. In this scenario, a computer that an employee would be using at work.
 
 
 - Remote Desktop
@@ -170,6 +170,14 @@ Basically, GPMC allows IT administrators to control how computers and users beha
   Under "Account Lockout Duration" there's "Account Lockout Threshold". The account lockout threshold automatically got set to 5 password attempts once I set the account lockout duration. I'll leave as is. This is basically saying a person has 5 attempts to type in the password correctly before being locked out.
 </p>
 
+<p>
+  <img width="762" height="557" alt="will-log-in-to-client-1-as-jane-admin" src="https://github.com/user-attachments/assets/08feffa8-084b-4f94-9f00-b614753f2254" />
+
+</p>
+
+<p>
+  
+</p>
 
 
 <p>
