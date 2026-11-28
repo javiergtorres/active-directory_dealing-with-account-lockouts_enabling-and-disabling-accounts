@@ -218,7 +218,8 @@ Basically, GPMC allows IT administrators to control how computers and users beha
 
 
 <p>
-  <img width="1525" height="848" alt="force-computers-to-accept-policy" src="https://github.com/user-attachments/assets/bcd6529b-8840-4622-b92c-6052ebd4ac38" />
+<img width="1512" height="863" alt="opening-command-prompt-on-client1" src="https://github.com/user-attachments/assets/f62f9757-c6c2-4086-8171-1b7688953ed2" />
+
 
 </p>
 
