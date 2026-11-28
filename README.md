@@ -164,7 +164,7 @@ Basically, GPMC allows IT administrators to control how computers and users beha
 </p>
 
 <p>
-  Here, I'm setting the account lockout duration for 10 minutes. I'll click "Apply" then "OK".
+  After I've clicked "Account Lockout Duration", this little screen pops up. First thing I do is check the box for "Define this policy setting". After, I'm setting the account lockout duration for 10 minutes. I'll click "Apply" then "OK".
 </p>
 
 <p>
