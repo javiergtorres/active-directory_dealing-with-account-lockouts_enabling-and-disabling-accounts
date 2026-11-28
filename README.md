@@ -211,6 +211,8 @@ Basically, GPMC allows IT administrators to control how computers and users beha
 
   Now remember for the username, I'll be typing "jane_admin@mydomain.com" as opposed to just "jane_admin". The reason is because "jane_admin" doesn't exist locally on (client-1). The thing is, client-1 is actually part of the domain. So, when I type "jane_admin@mydomain.com" in the username section, I'm stating "Hey look through the domain, find jane_admin, and if I have the password for that account, log me in." FYI I do indeed have the password for jane_admin.
 
+  So after filling out the username and password, I'll just click connect. That should open a new screen with a Windows 11 computer screen showing.
+
   
 </p>
 
