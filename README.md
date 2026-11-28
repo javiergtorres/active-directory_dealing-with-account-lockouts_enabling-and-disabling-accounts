@@ -257,7 +257,7 @@ Basically, GPMC allows IT administrators to control how computers and users beha
 </p>
 
 <p>
-  Here Active Directory has appeared on my screen. First I'll click the arrow next to "mydomain.com" to bring down the drop down menu. 
+  Here Active Directory has appeared on my screen. First I'll click the arrow next to "mydomain.com" to bring down the drop down menu. Then in the drop down menu, I'll click "_EMPLOYEES" to open up the list of the user accounts in the domain. Remember, this example is to simulate a business work environment, hence why I named the folder _EMPLOYEES. 
 </p>
 
 <p>
