@@ -62,8 +62,8 @@ Basically, it's like sitting in front of another computer even though you're phy
 
 <h2>Objectives</h2>
 
-- Dealing with Account Lockouts
-- Enabling and Disabling Accounts
+- Dealing with Account Lockouts in Active Directory
+- Enabling and Disabling Accounts in Active Directory
 
 
 
