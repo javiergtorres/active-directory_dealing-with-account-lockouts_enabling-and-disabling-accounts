@@ -183,7 +183,7 @@ Basically, GPMC allows IT administrators to control how computers and users beha
 </p>
 
 <p>
-  Now as an example, I'll login to the other virtual machine (client-1), and I'll login as a user that is part of the domain "mydomain.com".
+  Now as an example, I'll login to the other virtual machine (client-1), and I'll login as an admin user that is part of the domain "mydomain.com". Once logged in I'll force an update to the domain so the changes I've made to the account lockout policy will be applied to the whole domain.
   
   So real quick, I'll head back to Microsoft Azure to get the public IP address of client-1 which I'll need to type in to Remmina to be able to connect remotely.I have the public IP address highlighted. 
   </p>
