@@ -343,7 +343,7 @@ Basically, GPMC allows IT administrators to control how computers and users beha
 </p>
 
 <p>
-  Here I'm back at the login screen and will attempt to login with the correct password.
+  Here I'm back at the login screen for the virtual machine (client-1) in the application Remmina and will attempt to login with the correct password.
 </p>
 
 <p>
@@ -352,7 +352,7 @@ Basically, GPMC allows IT administrators to control how computers and users beha
 </p>
 
 <p>
-  The account has been successfully unlocked!
+  The account has been successfully unlocked! I was able to log back in to "wuta.neg" with no issues. 
 </p>
 
 <h2>
