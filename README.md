@@ -234,6 +234,17 @@ Basically, GPMC allows IT administrators to control how computers and users beha
   
   <p>
   Here the command line has appeared. I'll type "gpupdate /force" in the command line then hit enter. Now remember, by me typing this in the command line then hitting enter, what I'm doing is forcing an update to the domain so the changes I've made to the account lockout policy will be applied to the whole domain.
+
+  Now I want to test that the update has actually been applied to the domain. I'll pick a random user in the domain to test out the account lockout policy and see if I get locked out of the account after failing to provide the correct password for the user.
+</p>
+
+<p>
+  <img width="1547" height="866" alt="opening-dc1-and-using-activedirectory-to-find-a-user" src="https://github.com/user-attachments/assets/4b5c44ba-0b21-4ff8-a44b-5546c3f19da3" />
+
+</p>
+
+<p>
+  It's worth noting, that at this point, I'm simultaneously logged in to both virtual machines (dc-1) and (client-1) within the application Remmina. I want to head back to (dc-1) the domain controller and open up Active Directory: Users and Computers that way I can pick a user within the domain to test the account lockout policy on. Within Remmina, there's tabs at the top of the screen that I can click to switch back and forth between the two virtual machines that I'm logged in to. I'll click on (dc-1) to switch to that virtual machine.
 </p>
 
 <p>
