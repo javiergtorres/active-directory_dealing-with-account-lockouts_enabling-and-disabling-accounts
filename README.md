@@ -185,6 +185,15 @@ Basically, GPMC allows IT administrators to control how computers and users beha
   Now as an example, I'll login to the other virtual machine (client-1), and I'll login as a user that is part of the domain "mydomain.com". I'll login as "jane_admin" on (client-1), which is an admin account in the domain. I basically just want to force an update to the domain so the account lockout policy gets updated across the whole domain.  So for that, I'll go back to Remmina, the app that lets me remotely connect to other computers. Then I'll right click (client-1) and click edit. 
 </p>
 
+<p>
+  <img width="991" height="698" alt="logging-in-to-client1-as-jane_admin" src="https://github.com/user-attachments/assets/ad5b6a80-0760-4cb3-a9e9-9702412709ef" />
+
+</p>
+
+<p>
+  
+</p>
+
 
 <p>
   <img width="1525" height="848" alt="force-computers-to-accept-policy" src="https://github.com/user-attachments/assets/bcd6529b-8840-4622-b92c-6052ebd4ac38" />
