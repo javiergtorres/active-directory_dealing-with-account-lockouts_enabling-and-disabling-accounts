@@ -432,7 +432,7 @@ Basically, GPMC allows IT administrators to control how computers and users beha
 </p>
 
 <p>
-  Here, I'm back at the login screen and will attempt to login.
+  Here, I'm back on the remote desktop application, Remmina. I've right clicked (client-1) and clicked "edit" once again. Now I'm on the connection profile and have entered everything in the necessary fields as I've done previously in this example. From here I'll click "connect" and a new screen should appear displaying the screen of the virtual machine with me logged in as "wuta.neg"
 </p>
 
 <p>
@@ -441,7 +441,7 @@ Basically, GPMC allows IT administrators to control how computers and users beha
 </p>
 
 <p>
-  Mission success! The account has been re-enabled and I was able to log back in!
+  Mission success! The account has been re-enabled and I was able to log back in to the virtual machine (client-1) as "wuta.neg"
 </p>
 
 
